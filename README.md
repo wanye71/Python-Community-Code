@@ -4,7 +4,7 @@
 3. git pull origin main (remote branch)
 
 # Table of Contents
-## Install pip
+## Installing pip
 1. [Install pip](#install-pip)
 2. [Upgrade pip](#upgrade-pip)
 
