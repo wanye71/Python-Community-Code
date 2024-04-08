@@ -13,7 +13,7 @@
 py -m ensurepip --upgrade
 ```
 
-## Upgrade pip
+### Upgrade pip
 ```console
 pip install --upgrade pip
 ```
