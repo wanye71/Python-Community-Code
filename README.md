@@ -7,13 +7,20 @@
 ## Installing pip
 1. [Install pip](#install-pip)
 2. [Upgrade pip](#upgrade-pip)
+## Install system packages
+3. [Install ptpython](#install-ptpython)
 
 ### Install pip
 ```console
 py -m ensurepip --upgrade
 ```
-
 ### Upgrade pip
 ```console
 pip install --upgrade pip
 ```
+
+### Install ptpython
+```console
+pip install ptpython
+```
+
