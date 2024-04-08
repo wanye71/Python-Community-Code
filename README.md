@@ -11,6 +11,7 @@
 3. [Install ptpython](#install-ptpython)
 ## Virtual Environments
 4. [Create Virtual Environments](#create-virtual-environments)
+5. [Install packages](#install-packages)
 
 ### Install pip
 ```console
@@ -45,3 +46,4 @@ source /Scripts/activate
 ```console
 source /bin/activate
 ```
+## Install packages
