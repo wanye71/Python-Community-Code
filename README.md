@@ -22,9 +22,14 @@ py -m ensurepip --upgrade
 pip install --upgrade pip
 ```
 
-### Install ptpython
+### Install Repls
+#### PtPython
 ```console
 pip install ptpython
+```
+#### Bpython
+```console
+pip install bpython
 ```
 
 ## Create Virtual Environments
@@ -32,7 +37,11 @@ pip install ptpython
 ```console
 python -m venv example_venv
 ```
-Turn virtual environment on
+***Turn virtual environment on Windows***
 ```console
 source /Scripts/activate
+```
+***Turn virtual environment on Linus
+```console
+source /bin/activate
 ```
