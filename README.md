@@ -9,11 +9,14 @@
 2. [Upgrade pip](#upgrade-pip)
 ## Install system packages
 3. [Install ptpython](#install-ptpython)
+## Virtual Environments
+4. [Create Virtual Environments](#create-virtual-environments)
 
 ### Install pip
 ```console
 py -m ensurepip --upgrade
 ```
+
 ### Upgrade pip
 ```console
 pip install --upgrade pip
@@ -24,3 +27,12 @@ pip install --upgrade pip
 pip install ptpython
 ```
 
+## Create Virtual Environments
+### With venv
+```console
+python -m venv example_venv
+```
+Turn virtual environment on
+```console
+source /Scripts/activate
+```
