@@ -45,3 +45,8 @@ source /Scripts/activate
 ```console
 source /bin/activate
 ```
+
+1. python3 -m ptpython
+2. pip3 install -r requirements.txt
+3. which ptpython
+4. source env/bin/activate
