@@ -8,7 +8,7 @@
 1. [Install pip](#install-pip)
 2. [Upgrade pip](#upgrade-pip)
 
-## Install pip
+### Install pip
 ```console
 py -m ensurepip --upgrade
 ```
