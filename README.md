@@ -41,7 +41,7 @@ python -m venv example_venv
 ```console
 source /Scripts/activate
 ```
-***Turn virtual environment on Linus***
+***Turn virtual environment on Linux***
 ```console
 source /bin/activate
 ```
